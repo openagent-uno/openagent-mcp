@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This is a historical source repository. New development and coordinated
+> releases live in [`openagent`](https://github.com/openagent-uno/openagent).
+> Existing tags, releases and updater URLs remain available during the verified
+> transition and will be preserved when this repository is archived. See
+> <https://openagent.uno/downloads> for current artifacts.
+
 # openagent-mcp
 
 Talk to [OpenAgent](https://github.com/openagent-uno) agents from **any MCP host** —
